@@ -1,0 +1,13 @@
+
+
+.root-main{
+    padding: 20px 130px;
+    margin-top: 30px;
+}
+
+.model-cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}

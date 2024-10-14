@@ -1,0 +1,27 @@
+
+
+.model-card{
+    width: 380px;
+    height: 380px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-between;
+    padding-bottom: 30px;
+    transition: 0.3s;
+}
+
+.model-card:hover{
+    transform: scale(1.05);}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.model-card img{
+    width: 100%;
+    max-height: 300px;
+}
